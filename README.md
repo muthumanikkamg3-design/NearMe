@@ -25,7 +25,69 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+map.html
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+     <title>Mycite</title>
+</head>
+<body>
+    <h1 align="center">
+    <font color="red"><b>saveetha</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="bule"><b>Muthu Manikkam G (25016274)</b></font>
+        </h3>
+    <center>
+        <img src="map.jpg" usemap="#Mycity" height="610" width="1450">
+   <map name="Mycity">
+    <area shape="rect" coords="100,100,900,900" href="home.html" title="my home town">
+   </map>
+    </center>
+</body>
+</html>
 
+padur.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="padur.png" usemap="#image-map">
+</body>
+</html>
+
+queensland.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="image.png" usemap="#image-map">
+   
+</body>
+</html>
+
+hospital.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="hosptal.png" usemap="#image-map">
+    
+</body>
+</html>
+```
 
 ## OUTPUT
 
